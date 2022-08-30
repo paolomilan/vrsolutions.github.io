@@ -737,7 +737,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .slider {
-  background: url("../images/slider-bg.jpg") no-repeat;
+  background: url("../images/secondbackgroundhigh.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -2099,7 +2099,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .bg-2 {
-  background: url("../images/featue-bg.jpg");
+  background: url("../images/secondbackground.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
